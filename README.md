@@ -149,6 +149,11 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
+##Note
+pep8 package has been renamed to pycodestyle.
+But maintain pep8 in test files.
+use pycodestyle to identify issues with files individually.
+
 ## Bugs
 No known bugs at this time. 
 
