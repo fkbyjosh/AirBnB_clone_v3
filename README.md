@@ -149,6 +149,9 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
+## Notes 
+Changes made to files to allow for all tests to pass.
+pep 8 is outdated and pycodestyle is the right thing to use.
 
 ## Bugs
 No known bugs at this time. 
